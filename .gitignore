@@ -1,0 +1,7 @@
+dist
+_build
+*.pyc
+__pycache__
+turtlecolors.egg-info
+.DS_Store
+delme*
